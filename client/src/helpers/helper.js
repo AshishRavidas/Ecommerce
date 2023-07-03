@@ -1,0 +1,1 @@
+export const api = "https://ecommerce-backend-pal0.onrender.com";
